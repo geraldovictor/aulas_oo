@@ -50,7 +50,7 @@ run:
 	@./exe
 
 clean:
-	@mv  src/* /home/geraldo/Documentos/C++/exercicio03
+	@mv  src/* /home/geraldo/Documentos/aula_oo/C++/exercicio03
 	@rm -r obj
 	@rm -r src
 	@rm -rf exe
